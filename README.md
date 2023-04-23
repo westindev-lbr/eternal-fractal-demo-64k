@@ -1,4 +1,4 @@
-# eternal-fractal-demo-64k
+# Eternal-Fractal-demo-64k
 
 Programmation GPU - Demo
 
@@ -13,3 +13,17 @@ Je recommande de maximiser votre usage de : création/déformation de maillage (
 JE RAPPELLE QUE L'AUDIO DOIT ÊTRE LIBRE DE DROITS (lire <https://creativecommons.org/licenses/?lang=fr-FR>) ET CITÉ DANS LES CRÉDITS DE LA DÉMO (exemple de sites où vous trouverez des audios utilisables en citant les auteurs : <https://soundcloud.com>, <http://modarchive.org>, ...)
 
 Bon courage !
+
+## Utilisation
+
+> Compilation :
+
+```shell
+make
+```
+
+> Exécution :
+
+```shell
+./modelisation
+```
