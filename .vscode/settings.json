@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.js": "javascript",
+        ".htaccess": "editorconfig",
+        "stdio.h": "c"
+    }
+}
