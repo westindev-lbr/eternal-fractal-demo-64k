@@ -25,5 +25,5 @@ make
 > Exécution :
 
 ```shell
-./modelisation
+./alabarre_demo
 ```
